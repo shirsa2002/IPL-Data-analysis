@@ -47,9 +47,12 @@ o Lucky stadium for the topmost team
 Screenshots
 
 o No. of matches played by the team.
+
 ![261208033-7761a893-bb77-481b-9cab-4999b0c1b98b](https://github.com/user-attachments/assets/5c16da08-e5c3-4c12-acd9-43287d1d3e21)
 
+o Maximum times won the player of the match.
 
+![2](https://github.com/user-attachments/assets/76d6755a-98d6-4358-b11e-674afa4bb78e)
 
 Challenges and Learnings
 Data Analysis: Extracting insights from data hones your analytical skills and gives you practical experience in drawing conclusions.
